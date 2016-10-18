@@ -11,5 +11,6 @@ h1 {
 h1 {
     color: yellow;}
 
-p strong font-size: 75%;
+p strong {
+      font-size: 75%;}
 
