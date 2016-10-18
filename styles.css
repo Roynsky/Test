@@ -5,8 +5,8 @@ body {
 h1 {
     color: red;}
 
-h1 {
-    color: blue !important;}
+h1 
+    color: blue !important;
 
 h1 {
     color: yellow;}
