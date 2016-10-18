@@ -1,6 +1,6 @@
-body {
+/*body {
       font-family: arial;
-       background-color: rgb(185, 179, 175);}
+       background-color: rgb(185, 179, 175);}*/
 
 h1 {
     color: red;}
@@ -18,8 +18,7 @@ p#intro {
       font-size: 300%;)
       
 body {
-      background-color: #C8C8C8;
-      }
+      background-color: #ffffff;}
 
       
 
